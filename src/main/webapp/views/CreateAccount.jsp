@@ -3,6 +3,7 @@
 <%@taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="/resources/style.css">
     <title>Create Account</title>
 
 </head>

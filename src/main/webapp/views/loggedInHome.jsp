@@ -8,6 +8,7 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="/Resources/style.css">
     <title>StayCation: Detroit QLine</title>
 </head>
 <body>

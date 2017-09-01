@@ -2,11 +2,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="/resources/style.css">
 <center><title>Welcome</title></center>
 </head>
 <body>
 
-<center><h1>Welcome to StayCation: Detroit Qline Edition</h1></center>
+<h1>Welcome to StayCation:  <br/>
+    Detroit Qline Edition
+</h1>
 <br/><br/>
 
 <%--Buttons for links to registration and login--%>
