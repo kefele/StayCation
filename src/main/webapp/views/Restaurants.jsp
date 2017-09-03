@@ -44,7 +44,8 @@
 
 </div>
        <div> <a href="${restaurant.restUrl}"target="_blank" ><h3>View Website</h3>
-</div></c:forEach>
+
+    </c:forEach>
 
 
 </div>
